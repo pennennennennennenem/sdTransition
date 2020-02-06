@@ -1,6 +1,7 @@
 # sdTransition
 <p>遷移エフェクト(MME)集</p>
 <p>カットの切り替わりなどの演出に使う遷移エフェクトを入れます</p>
+<p>使用例はこちら<br>https://www.nicovideo.jp/watch/sm36327149</p>
 <ul>
   <li>sdTransition ... クロスフェード風のエフェクトです
   <li>sdShutter    ... 一枚絵をストンと落とすエフェクトです
